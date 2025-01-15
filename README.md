@@ -1,0 +1,1 @@
+I tried adding a dotenv so that the apikey can be hidden but this require('dotenv').config(); doesnt work for some reason? ill make sure to add it first in the next project that has to do with api keys.
